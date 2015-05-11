@@ -1,0 +1,25 @@
+{
+  "name": "cam-to-data-url",
+  "version": "1.0.0",
+  "description": "CLI app that takes a picture using the webcam then outputs a data URL to the stout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://neil-morrison44@github.com/neil-morrison44/cam-to-data-url.git"
+  },
+  "keywords": [
+    "isight",
+    "dataURL",
+    "terminal",
+    "cli"
+  ],
+  "author": "Neil Morrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neil-morrison44/cam-to-data-url/issues"
+  },
+  "homepage": "https://github.com/neil-morrison44/cam-to-data-url#readme"
+}
