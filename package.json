@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/neil-morrison44/cam-to-data-url/issues"
   },
-  "homepage": "https://github.com/neil-morrison44/cam-to-data-url#readme"
+  "homepage": "https://github.com/neil-morrison44/cam-to-data-url#readme",
+  "dependencies": {
+    "datauri": "^0.6.0",
+    "imagesnapjs": "0.0.7",
+    "minimist": "^1.1.1"
+  }
 }
